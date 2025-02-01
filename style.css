@@ -1,6 +1,12 @@
 h4 {
-  color: aliceblue;
+  color: rgb(24, 83, 79);
   font-family: Tahoma;
   text-align: center;
   font-size: 35px;
+}
+#answer {
+  color: rgb(7, 55, 66);
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
 }
